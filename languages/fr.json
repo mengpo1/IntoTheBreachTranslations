@@ -27,7 +27,7 @@
     "text": "Ceci est votre Mech de Combat. Il peut frapper n'importe quelle tuile adjacente. \n\nCliquez sur votre Mech, rapprocher-le de l'ennemi et frapper-le."
   },
   "63f576609c53092d7264d07d5b80bfa4": {
-    "text": "Mech de Combat"
+    "text": "Mechs de Combat"
   },
   "07d1a861e5aa7996bdddd5c0b3e2466d": {
     "text": "Escouade HS"
@@ -225,16 +225,16 @@
     "text": "Mechs Corrodés"
   },
   "437692ce132f09c01a128d89e772de00": {
-    "text": "Ce Pod contient des équipements provenant du futur ! \n\nVous pouvez le récupérer avec votre Mech, ou simplement le défendre jusqu'à la fin de la bataille."
+    "text": "Ce Module contient des équipements provenant du futur ! \n\nVous pouvez le récupérer avec votre Mech, ou simplement le défendre jusqu'à la fin de la bataille."
   },
   "395dc55750e6d0d019128419ab303b38": {
-    "text": "Pods Temporels"
+    "text": "Modules Temporels"
   },
   "b6ec73a78060c62d7f8bd670b1979cb7": {
-    "text": "Pods Temporels Détruits"
+    "text": "Modules Temporels Détruits"
   },
   "6c35e073cbc4bbe3f1b7cd7a63fadb95": {
-    "text": "Le Pod Temporel sur cette tuile a été détruit ! \n\nLes Pods Temporels sont détruits en subissant des dégâts ou lorsque des ennemis se trouvent sur la tuile."
+    "text": "Le Module Temporel sur cette tuile a été détruit ! \n\nLes Modules Temporels sont détruits en subissant des dégâts ou lorsque des ennemis se trouvent sur la tuile."
   },
   "0f919302feb51711bce641b587c611fe": {
     "text": "Les Mechs ne peuvent pas utiliser leurs armes lorsqu'ils se trouvent dans l'Eau."
@@ -581,10 +581,10 @@
     "text": "Récompenses de Réputation Corporative, à utiliser pour acheter de l'équipement."
   },
   "409602372e7828f68985967893d7acd6": {
-    "text": "Pod Temporel"
+    "text": "Module Temporel"
   },
   "5b6c8b9eaaf2cd1d9d374e746bdaaf4b": {
-    "text": "Le contenu d'un Pod Temporel pourrait être utile pour les combats à venir."
+    "text": "Le contenu d'un Module Temporel pourrait être utile pour les combats à venir."
   },
   "fc10bb73ac355809216337afe80a6025": {
     "text": "Objectif de Puissance"
@@ -677,7 +677,7 @@
     "text": "Vous PERDEZ si ce niveau est à zéro. \n\nEst réduit à chaque fois qu'un Bâtiment Alimenté est endommagé."
   },
   "92e50f1862bb0cb44bcc3356c6a4f453": {
-    "text": "Noyau Réacteur"
+    "text": "Noyau"
   },
   "3d7c1d9caf54fe5ea41ec3e212947d2a": {
     "text": "Les Noyaux Réacteur sont utilisés pour Améliorer vos Mech entre chaque missions."
@@ -800,10 +800,10 @@
     "text": "Brouillard Spontané"
   },
   "4d2bbeb2ba92655000600d5fff15d601": {
-    "text": "Déploiement de $1"
+    "text": "Déploiement des $1"
   },
   "195e646b42c48a06a2e102cca4c2acb8": {
-    "text": "Sélectionnez un emplacement dans la Zone de Largage jaune"
+    "text": "Sélectionnez un emplacement dans la Zone de Parachutage (tuiles colorées en jaune)"
   },
   "0244b84763e283a911f0d48e4f53df3b": {
     "text": "Déploiement Terminé"
@@ -842,10 +842,10 @@
     "text": "ANNULER \nDÉPLACEMENT"
   },
   "95923a2b042803ea802ae3fd256f487a": {
-    "text": "RÉINITIALISER TOUR"
+    "text": "RÉINITIALISATION"
   },
   "207536e5c45577267014f7eba561d561": {
-    "text": "RÉINITIALISATION UTILISÉE"
+    "text": "INDISPONIBLE"
   },
   "bfd4e50add4f4080189a629370fa3c7c": {
     "text": "Unités actives : "
@@ -866,7 +866,7 @@
     "text": "TEST FINI"
   },
   "78340d7fd2b71bb1a60192bd553fac24": {
-    "text": "[ Right Click ]\nou\n[ $1 ]\npour Désarmer"
+    "text": "[ Clic Droit ]\nou\n[ $1 ]\npour Désarmer"
   },
   "de1c70a20d797811b2fd32facf64bbd4": {
     "text": "PASSIF"
@@ -1125,10 +1125,10 @@
     "text": "Région Sécurisée"
   },
   "5a37421666f96809d21bffa824b270bc": {
-    "text": "POD RÉCUPÉRÉ"
+    "text": "MODULE RÉCUPÉRÉ"
   },
   "809447e8eaf82f48cb8fce4cb30c1c03": {
-    "text": "Contenu du Pod :"
+    "text": "Contenu du Module :"
   },
   "ccbf6404f6199110dfadf4a953e574de": {
     "text": "Coût:  $1"
@@ -1137,10 +1137,10 @@
     "text": "Équipé"
   },
   "8aa9ce8a39054040a5303c4380c851b5": {
-    "text": "Acheter de l'équipement en utilisant       Réputation"
+    "text": "Acheter de l'équipement pour        Réputation"
   },
   "3e0913aff1b7ac46b7456c19516a7bbf": {
-    "text": "Donner armes et pilotes pour       Réputation"
+    "text": "Donner armes et pilotes pour        Réputation"
   },
   "8c3c4fc57b18e7599335070a3d60c606": {
     "text": "DONNER"
@@ -1171,19 +1171,19 @@
     "text": "Choisir une récompense"
   },
   "f5c1a97511feac93a525734131beebe4": {
-    "text": "Protéger le Pod Temporel"
+    "text": "Protéger le Module Temporel"
   },
   "f19e4e7224bcac1b34cc7201d5c43768": {
-    "text": "Protéger le Pod Étrange"
+    "text": "Protéger le Module Étrange"
   },
   "c17b064cef96a4b2e0432ee575defc0a": {
-    "text": "Protéger le Pod Étrange (Échec)"
+    "text": "Protéger le Module Étrange (Échec)"
   },
   "93367e33573a637f9ab5fa82917faed9": {
-    "text": "Pod Temporel Détecté"
+    "text": "Module Temporel Détecté"
   },
   "66b2fed25b8092dde83151b036fd5386": {
-    "text": "Protéger le Pod Temporel (Échec)"
+    "text": "Protéger le Module Temporel (Échec)"
   },
   "10577dd8e9aef1c7097268c665a5f46e": {
     "text": "Ne Plus Demander"
@@ -1214,7 +1214,7 @@
     "text": "Les Veks envahissent deux régions de l'île. \nLa région que vous ne sauverez pas sera perdue pour toujours."
   },
   "c9c9c146c630ca5ef9197c73c032f4a6": {
-    "text": "PUISSANCE"
+    "text": "PUISS."
   },
   "bc899ea5d6a94a8e4e60c16244919ba0": {
     "text": "RÉSEAU"
@@ -1232,7 +1232,7 @@
     "text": "Tué"
   },
   "b68cc933f6e20bea8865776ce8820a0e": {
-    "text": "Siège de $1"
+    "text": "QG de $1"
   },
   "4bba34ee39700d80b6342dfeca7f6db0": {
     "text": "Menace Vek Détectée !"
@@ -1286,7 +1286,7 @@
     "text": "PROMU"
   },
   "2f9da4ac5396a25b52d8002350c44a70": {
-    "text": "Nouvelle Compétence Déverrouillée :"
+    "text": "Nouvelle Compétence :"
   },
   "9303c433d5f64f607645776e4007318b": {
     "text": "Compris"
@@ -1391,7 +1391,7 @@
     "text": "Îles Sécurisées :"
   },
   "86d4e2be0a2e4f99298d9443f3150203": {
-    "text": "Pods Collectés :"
+    "text": "Modules Collectés :"
   },
   "171e33a0853c270a1609b29ce5e2e45d": {
     "text": "Vaincue"
@@ -1446,10 +1446,10 @@
     "text": "Revenir à la Liste"
   },
   "2efe6da483c8c1263e3d8ea04ea83eed": {
-    "text": "Changer Escouade"
+    "text": "Autre Escouade"
   },
   "28586b1f1791273eee4004a2689daaef": {
-    "text": "Changer Pilote"
+    "text": "Autre Pilote"
   },
   "d3d2e617335f08df83599665eef8a418": {
     "text": "Fermer"
@@ -1596,7 +1596,7 @@
     "text": "Cliquer pour Renommer le Pilote"
   },
   "2513d54bf85f631ffb48c3f66752e977": {
-    "text": "Cliquez pour changer le Mech de départ pour le Voyageur Temporel",
+    "text": "Cliquer pour changer le Mech de départ",
     "review": true
   },
   "4642e767f9251fa40afadbc963f80b7a": {
@@ -1752,7 +1752,7 @@
     "text": "ENVOYER PILOTE"
   },
   "331beab9005ec2c1809aed6bc1c63383": {
-    "text": "QUITTER L'ÎLE"
+    "text": "QUITTER L'ILE"
   },
   "8d99af2f895511174369377763e92aae": {
     "text": "DÉPENSER RÉPUTATION"
@@ -1816,10 +1816,10 @@
     "text": "N'ATTAQUE PAS"
   },
   "417804047176b7ea5fe4e5134569f1fa": {
-    "text": "POD DÉTRUIT"
+    "text": "MODULE DÉTRUIT"
   },
   "a0b305d8f6394030ffb723be05113050": {
-    "text": "POD SÉCURISÉ"
+    "text": "MODULE SÉCURISÉ"
   },
   "cbdee2e48401c7ec023cb0d883f07b5c": {
     "text": "MENACÉ"
@@ -1838,7 +1838,7 @@
     "text": "ATTAQUE PSION"
   },
   "9d274aed4c3a5045525ce2734ad7d265": {
-    "text": "ACTION DISPONIBLE"
+    "text": "ACTION(S) DISPONIBLE(S)"
   },
   "5b0ee6125ba034e50e2170f32b779869": {
     "text": "NIVEAU SUP !"
@@ -1847,7 +1847,7 @@
     "text": "ALERTE !"
   },
   "8530425c190c6183c7e247b996f921b5": {
-    "text": "POD EN APPROCHE"
+    "text": "MODULE EN APPROCHE"
   },
   "106e37b6a73aeb43669169644def03f6": {
     "text": "BONUS PASSIF"
@@ -1886,7 +1886,7 @@
     "text": "PILOTE & PUISSANCE DISPONIBLE"
   },
   "7977a2406f93a9bc1566c0fc0814196a": {
-    "text": "DEFENSE PRÊTE !"
+    "text": "DÉFENSE PRÊTE !"
   },
   "58635dc01c70898e9b2fb3e59eef9c77": {
     "text": "PUISSANCE MAX !",
@@ -1924,7 +1924,7 @@
     "text": "Les Vieilles Epaves"
   },
   "9e38f61bcd08513d8aaaae58fd3eb17c": {
-    "text": "Les manipulateurs de conditions climatiques de la Corporation R.S.T permettent à ces Mechs de profiter pleinement des fumées électriques."
+    "text": "Les manipulateurs de conditions climatiques de la Corporation R.S.T permettent à ces Mechs de profiter pleinement des brouillards électriques."
   },
   "82e8c151115a21ab1d0f04f5af71be4d": {
     "text": "Les Géants de la Flamme"
@@ -2407,10 +2407,10 @@
     "text": "Chronophobie"
   },
   "78074256243d972d46c30c423db2f534": {
-    "text": "Terminer 3 Îles Corporatives et détruire chaque Pod Temporel découvert"
+    "text": "Terminer 3 Îles Corporatives et détruire chaque Module Temporel découvert"
   },
   "99634c6c0b93deabfcd35eecbcdaa399": {
-    "text": "Échec : Pod Temporel collecté"
+    "text": "Échec : Module Temporel collecté"
   },
   "602715db940b6352ced23202017d406a": {
     "text": "Fais-le, ou ne le fais pas, mais il n'y a pas d'essai"
@@ -2434,7 +2434,7 @@
     "text": "Les Boîtes à Butin !"
   },
   "3fa6247896efc335f4a13dababda6e21": {
-    "text": "Ouvrir 5 Pods Temporels en une seule partie"
+    "text": "Ouvrir 5 Modules Temporels en une seule partie"
   },
   "f29fabe458056b34fe3588b6e51e8e2e": {
     "text": "Progression : $1 ouvert(s)"
@@ -2672,7 +2672,7 @@
     "text": "Tuile Forêt"
   },
   "2cc4044087609890c0d4a0dd5a11ef92": {
-    "text": "S'enflamme si endommagé"
+    "text": "S'enflamme si endommagée"
   },
   "2d31850ad1a3d48c080994eb0f688d8f": {
     "text": "Forêt En Feu"
@@ -2696,7 +2696,7 @@
     "text": "Vek En Approche"
   },
   "a534c1a0ce7884b68b8eaa7b492795cf": {
-    "text": "Ennemi en approche au prochain tour. Peut être bloqué."
+    "text": "Apparition d'un ennemi au prochain tour. Peut être bloqué."
   },
   "278d01e5af56273bae1bb99a98b370cd": {
     "text": "Critique"
@@ -2822,7 +2822,7 @@
     "text": "Détruit si endommagé ou piétiné par l'ennemi. À Collecter avec un Mech, ou à défendre jusqu'à la retraite des Veks."
   },
   "b44a16fbb7bab48136dc5164cdf24399": {
-    "text": "Pod Étrange"
+    "text": "Module Étrange"
   },
   "6a87d3e6f0645d13193c8039cfed0103": {
     "text": "Objet Étrange"
@@ -3095,7 +3095,7 @@
     "text": "Brouillard"
   },
   "db1492313f74a8055f65a39d1933ba13": {
-    "text": "Les unités dans la Fumée ne peuvent pas attaquer ou réparer. L'électricité endommage les unités ennemies."
+    "text": "Les unités dans le Brouillard ne peuvent pas attaquer ou réparer. L'électricité endommage les unités ennemies."
   },
   "1fad36f58244589f0f918e1bb23b3dc7": {
     "text": "Bouclier Énergétique"
@@ -3192,7 +3192,7 @@
     "text": "Évasion"
   },
   "9ae09a3cc751ada793e0f38cb571811a": {
-    "text": "Mech non affecté par l'Entravement et la Fumée."
+    "text": "Mech non affecté par l'Entravement et le Brouillard."
   },
   "9d80c25533b671d3d7acc6077886e524": {
     "text": "Expérimenté"
@@ -3426,7 +3426,7 @@
     "text": "Plus de Vek !"
   },
   "f7a72198b8f5cf7d276c069e3e0b7f2f": {
-    "text": "Stupéfiant !"
+    "text": "Incroyable !"
   },
   "3eca91cb7158ee874c316e42177e430d": {
     "text": "Vous avez gagné !"
@@ -4840,12 +4840,10 @@
     "text": "Tuer tous les ennemis avant \nqu'ils ne se retirent"
   },
   "ddff0d5817e9abf08eb05ebc3a9ea973": {
-    "text": "Le PDG vous a envoyé un message concernant la mission. Il est très positif et enthousiaste, et vous donne sa vision monde ainsi que son opinion sur la mission que vous êtes sur le point d'entreprendre.",
-    "review": true
+    "text": "Le PDG vous a envoyé un message concernant la mission. Il est très positif et enthousiaste, et vous donne sa vision monde ainsi que son opinion sur la mission que vous êtes sur le point d'entreprendre."
   },
   "1f6f04e9e368147e55fc170f35e7eed3": {
-    "text": "Le PDG vous a envoyé un message concernant la mission. Il est plutôt content de son déroulement malgré le bilan mitigé. On y trouve des éloges glorifiantes, mais également quelques propos condescendants voire insultants vous concernant.",
-    "review": true
+    "text": "Le PDG vous a envoyé un message concernant la mission. Il est plutôt content de son déroulement malgré le bilan mitigé. On y trouve des éloges glorifiantes, mais également quelques propos condescendants voire insultants vous concernant."
   },
   "055a2686266eb58757b79eefe037a1ad": {
     "text": "Moins de 3 de dégâts de grille",
@@ -4855,7 +4853,7 @@
     "text": "Terminer avec moins de 4 de dégâts subit par vos Mech"
   },
   "dad15ea258068b0bd62af51ad586c5ae": {
-    "text": "Bloquer l'Apparition de Veks 3 fois"
+    "text": "Bloquer l'Apparition de Veks\n3 fois"
   },
   "4468106b119ce25bcd00795c42247164": {
     "text": "Bloquer l'Apparition de Veks\n3 fois"
@@ -4867,7 +4865,7 @@
     "text": "Protéger"
   },
   "26ade0d30cfbfa5cc6e253d67160bafe": {
-    "text": "Prendre moins de 3 de dégâts de grille",
+    "text": "Prendre moins de 3 points de dégâts lors des combats",
     "review": true
   },
   "b12f6f65259a3e89ca17833bab9b1c23": {
@@ -4910,7 +4908,7 @@
     "text": "Défendre le Train"
   },
   "bdfa7a53a2b6b7e3de3fd3492db6410d": {
-    "text": "Défendre le Train Endommagé"
+    "text": "Défendre le Train \nendommagé"
   },
   "084ad6826c3326cc091a57d4ce4eefee": {
     "text": "Le Train est endommagé et ne bougera plus"
@@ -5109,7 +5107,7 @@
     "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique Détritus"
   },
   "66dbb5914dd52298c9273ebe57d43c5f": {
-    "text": "Ralph Karlsson [Inconnu] Ralph a franchi la brèche temporelle plus de fois qu'il ne peut compter - il a assisté à la chute d'au moins une centaine de lignes temporelles (à l'heure actuelle, il n'a même pas encore réussi à en sauver une seule). Ce cycle infernal de guerres continuelles l'a rendu impitoyablement efficace, allant jusqu'à ne pas dormir du tout s'il le fallait, car, pour lui, chaque seconde compte... et chaque seconde qui s'échappe pourrait être le moment critique qui provoquerait notre perte face aux Veks. Il a parcouru un long chemin depuis le jeune soldat novice qu'il fut (c'était il y a une éternité mais il faut bien commencer quelque part), et il essayait d'éviter de tisser des liens avec les autres pilotes, car il savait qu'ils risquaient inévitablement de mourir au combat. Personne ne sait d'où il vient, peut-être de quelque part au delà de l'archipel Corporative, qui sait... Peut-être vient-il d'une station spatiale ? Et si cela est le cas, Ralph a toujours refusé de le confirmer, bien qu'il y a quelques lignes temporelles, Bethany, Harold et Isaac ont remarqué que la modèle de construction du Pod Temporel pouvait faire être issu de modèles d'engins spatiaux (notamment une capsule de lancement d'une fusée... ou une capsule de sauvetage d'une fusée).",
+    "text": "Ralph Karlsson [Inconnu] Ralph a franchi la brèche temporelle plus de fois qu'il ne peut compter - il a assisté à la chute d'au moins une centaine de lignes temporelles (à l'heure actuelle, il n'a même pas encore réussi à en sauver une seule). Ce cycle infernal de guerres continuelles l'a rendu impitoyablement efficace, allant jusqu'à ne pas dormir du tout s'il le fallait, car, pour lui, chaque seconde compte... et chaque seconde qui s'échappe pourrait être le moment critique qui provoquerait notre perte face aux Veks. Il a parcouru un long chemin depuis le jeune soldat novice qu'il fut (c'était il y a une éternité mais il faut bien commencer quelque part), et il essayait d'éviter de tisser des liens avec les autres pilotes, car il savait qu'ils risquaient inévitablement de mourir au combat. Personne ne sait d'où il vient, peut-être de quelque part au delà de l'archipel Corporative, qui sait... Peut-être vient-il d'une station spatiale ? Et si cela est le cas, Ralph a toujours refusé de le confirmer, bien qu'il y a quelques lignes temporelles, Bethany, Harold et Isaac ont remarqué que la modèle de construction du Module Temporel pouvait faire être issu de modèles d'engins spatiaux (notamment une capsule de lancement d'une fusée... ou une capsule de sauvetage d'une fusée).",
     "review": true
   },
   "26dc82d2d190682b34f07c9b37e4293f": {
@@ -5117,7 +5115,7 @@
     "review": true
   },
   "8c46c91cee3cc5cbd262ac34749c23a8": {
-    "text": "Abe Isamu [R.S.T.] Parfois appelé en plaisantant \"Sincère Abe\" dans de précédente lignes Temporelles, rien ne pourrait être plus loin de la vérité. Au cours des premières années de l'arrivée au pouvoir du PDG Kern, Abe a servi comme «Nettoyeur» (assassin et «boîte noire»), et il a eu de nombreux noms et identités au service de R.S.T. afin s'occuper des «questions difficiles» qui se poseraient et qui devraient être traitées par la société. Il est impitoyable quand on lui donne un objectif (dans ce cas, combattre le Vek), et sert de support au sol dans sa chronologie originale avant de voler un Mech d'un pilote mourant et d'utiliser sa technologie de brèche pour échapper à la ligne de temps. dans l'île volcanique. Depuis lors, \"\" Abe \"\" a suivi les ordres de son premier PDG Kern et est déterminé à continuer à se battre jusqu'à ce que chaque Vek dans chaque ligne de temps soit vaincu ... une tâche désespérée, mais \"\" Abe \"\" réalise qu'il a peu d'autres se battre pour, et même s'il devait rester dans une chronologie qu'il a sauvé, il ne pouvait pas faire face à l'idée que d'autres échéances étaient encore en danger. Il n'a pas encore rencontré sa copie, et si oui, il ne peut pas les reconnaître en raison de la chirurgie et de la fluctuation des identités que son travail exigeait avant l'attaque Vek."
+    "text": "Abe Isamu [R.S.T.] Parfois appelé en plaisantant \"Sincère Abe\" dans de précédente lignes Temporelles, rien ne pourrait être plus loin de la vérité. Au cours des premières années de l'arrivée au pouvoir de la PDG Kern, Abe a servi comme «Nettoyeur» (assassin et «boîte noire»), et il a eu de nombreux noms et identités au service de R.S.T. afin s'occuper des «questions difficiles» qui se poseraient et qui devraient être traitées par la société. Il est impitoyable quand on lui donne un objectif (dans ce cas, combattre le Vek), et sert de support au sol dans sa chronologie originale avant de voler un Mech d'un pilote mourant et d'utiliser sa technologie de brèche pour échapper à la ligne de temps. dans l'île volcanique. Depuis lors, \"\" Abe \"\" a suivi les ordres de Kern et est déterminé à continuer à se battre jusqu'à ce que chaque Vek dans chaque ligne de temps soit vaincu ... une tâche désespérée, mais \"\" Abe \"\" réalise qu'il a peu d'autres se battre pour, et même s'il devait rester dans une chronologie qu'il a sauvé, il ne pouvait pas faire face à l'idée que d'autres échéances étaient encore en danger. Il n'a pas encore rencontré sa copie, et si oui, il ne peut pas les reconnaître en raison de la chirurgie et de la fluctuation des identités que son travail exigeait avant l'attaque Vek."
   },
   "e7f3774d2366e0e9985236f6022b0733": {
     "text": "Harold Schmidt [Archives] Harold est aussi proche qu'ils viennent à une ingénierie \"\" sociopath \"\" (ce n'est pas le terme clinique - collègues de travail dans les délais antérieurs utilisé pour l'appeler un \"\" technopathe \"\", mais même ce n'est pas un terme précis pour son manque d'empathie et de compétences sociales). Il trouve les humains mal à l'aise et confus, et prend du réconfort dans le bricolage avec la robotique et les machines qui ont des règles claires et des raisons de ce qu'ils font. Dans sa chronologie originale, il servit un bref mandat à Detritus (où il semblait s'ennuyer et peu communicatif), puis fut repoussé de Pinnacle à cause de son examen psychologique, puis trouva une maison dans les archives, étudiant et faisant des travaux de restauration sur la robotique. Il a d'abord appliqué à l'appel ouvert d'Archive pour la formation de pilote afin qu'il puisse le rapprocher de la technologie Mech, puis il a découvert qu'il a bien réussi l'examen pilote (mieux que la plupart des bénévoles d'Archives), et il a accepté de servir comme soldat. un moyen de lui donner accès à la pointe de la technologie Mech. (Notez que Harold ne supporte aucune malveillance envers Detritus et Pinnacle, et qu'ils ne lui portent aucune mauvaise volonté ... cependant, le prédécesseur de Singh et Zenith ont vu le manque d'empathie d'Harold, et ils craignaient que cela ne mène à des accidents. ou mépris de la vie humaine pendant qu'il exerçait ses fonctions.)"
@@ -5590,7 +5588,7 @@
     "text": "Ces Veks ne nous causeront plus de problèmes ! Bien joué, à tous !"
   },
   "4620d8246ab78a08e0ade00430cb4f41": {
-    "text": "Les Veks attaquants ont été anéantis ! Beau spectacle, #squad !"
+    "text": "Les Veks ont été anéantis ! Beau spectacle, #squad !"
   },
   "a49ded1735196c3dcc9abafe88ec47e2": {
     "text": "Un essaim Vek de moins à s'inquiéter. J'ai lu les rapports de bataille - je suis impressionné. Vous et #squad avez été très minutieux dans l'extermination."
@@ -5688,7 +5686,7 @@
     "text": "Nous pouvons maintenant occuper le secteur en toute sécurité, Commandant. Les Veks qui étaient sous terre ne sont plus."
   },
   "e155a2995c597e3fe5bb82ad6fca86a7": {
-    "text": "Nos réserves naturelles sur la surface ont été détruites pendant les combats - il reste très peu de la région. Mais au moins les Veks sont partis maintenant."
+    "text": "Nos réserves naturelles sur la surface ont été détruites pendant les combats - il en reste très peu de la région. Mais au moins les Veks sont partis maintenant."
   },
   "fd312b93d667ed8fc9147b123b25a806": {
     "text": "Les Veks qui ont creusé la terre pour remonter à la surface ont détruit nos récoltes. Mon peuple mourra - pas des Veks, mais de la famine."
@@ -5798,10 +5796,10 @@
     "text": "Cette mission comporte un monstre ayant une capacité spéciale qui consiste à exploser lorsqu'il meurt. L'objectif principal est de ne surtout pas le tuer, laissez-le s'enfuir."
   },
   "da25fcf75f6876979380d31aba7e6380": {
-    "text": "Ces Veks 'explosifs' n'ont pas la courtoisie de simplement mourir - ils explosent et endommagent des régions entières. Manipulez-le, mais quoi que vous fassiez, ne le tuez pas!"
+    "text": "Ce Vek 'explosif' n'a pas la décence de mourir en silence - il peut exploser et endommager des régions entières. Quoique vous fassiez, ne le tuez pas!"
   },
   "e049a51422b094776a044a4ebdaf1068": {
-    "text": "Ces Vek 'explosifs' explosent à leur mort ! Éloignez-le et par notre sécurité, ne le laissez pas exploser !"
+    "text": "Ce Vek 'explosif' explose violemment quand il est tué ! Éloignez-le et pour notre sécurité, ne le laissez pas exploser !"
   },
   "cdad4198d4ce3080afffe0bb8d73f76f": {
     "text": "Normalement, je ne vous demanderais pas retenir vos coups - mais l'un des Veks est Explosif, il explosera si vous le tuez. Éloignez-le à la place."
@@ -5813,7 +5811,7 @@
     "text": "Ce Vek est nuisible. Le Vek explosif ne meure pas tranquillement, il explose ... et emporte des districts entiers avec lui. Ne le tuez pas - faites le courir."
   },
   "9956fa580d852e6ee792eaf3b9df255c": {
-    "text": "Ces Veks explosifs sont des bombes vivantes. Ne les tuez pas, éloignez-les avant qu'ils ne transforment la région en cratère."
+    "text": "Ce Vek explosif est des bombe vivante. Ne le tuez pas, éloignez-le avant qu'il ne transforme la région en cratère."
   },
   "04e293d064ca5fd236801fba4cf9d0e7": {
     "text": "Mon Processus d'Analyse Vek a envoyé une alerte. Un des Vek dans cette région va exploser à sa mort. Vous devez l'éloigner sans le tuer."
@@ -5873,7 +5871,7 @@
     "text": "La détonation de Vek a perturbé les opérations de Détritus dans le secteur - nous devrons nous retirer et réévaluer notre plan d'attaque."
   },
   "feee3e0cde40dbbc8f431b8fdf9406f1": {
-    "text": "Une sorte de ... masse gélatineuse s'approche de notre siège social ! Nous n'avons jamais rien vu de tel - vous devez l'arrêter !"
+    "text": "Une sorte de ... masse gélatineuse s'approche de notre quartier général ! Nous n'avons jamais rien vu de tel - vous devez l'arrêter !"
   },
   "1a987f4582f1bae32d17c9c732769314": {
     "text": "Les capteurs ont détecté un Vek inconnu ... une sorte de créature gélatineuse massive. Quoi qu'il en soit, ne la laissez pas atteindre la tour !"
@@ -5928,7 +5926,7 @@
     "text": "Réactivation"
   },
   "ce8bccdf33884089050e13fff7d0076b": {
-    "text": "Abe Isamu [R.S.T.] Parfois appelé \"Honest Abe\" pour rire dans des lignes temporelles précédentes, le vrai Abe n'a rien en commun avec son surnom. En effet, Abe a servi comme «nettoyeur» (assassin et emplois occultes divers) pendant les premières années de l'arrivée au pouvoir du PDG Kern, et il a pris beaucoup de noms et d'identités au seins des services du R.S.T. traitant les \"questions difficiles\" que pouvait rencontrer la corporation. Il est impitoyable lorsqu'il reçoit un objectif (ici, combattre les Veks), et a servi dans l'armée de Terre dans sa ligne temporelle originelle. Il vola alors le Mech d'un pilote mourant (?) et utilisa la technologie de brèche pour s'échapper de son temps après que l'escouade complète du pilote spolié périsse sur l'île volcanique. Depuis lors, \"Abe\" a suivi les ordres de son PDG Kern et est déterminé à continuer à se battre jusqu'à ce que chaque Vek dans chaque ligne temporelle soit vaincu ... Une tâche sans espoir, mais à laquelle Abe s'y adonne sans compter. Et même s'il arrive à sauver une ligne temporelle, il ne peut pas se faire à l'idée que d'autres lignes temporelles sont encore menacées. Il n'a pas encore pu rencontrer son double temporel, et même si c'était le cas, il n'aurait pas pu le reconnaître en raison des nombreux visages qu'il a utilisé, au sens propre comme au sens figuré, au cours de son travail de \"nettoyeur\" avant les attaques Veks.",
+    "text": "Abe Isamu [R.S.T.] Parfois appelé \"Honest Abe\" pour rire dans des lignes temporelles précédentes, le vrai Abe n'a rien en commun avec son surnom. En effet, Abe a servi comme «nettoyeur» (assassin et emplois occultes divers) pendant les premières années de l'arrivée au pouvoir de Kern, et il a pris beaucoup de noms et d'identités au seins des services du R.S.T. traitant les \"questions difficiles\" que pouvait rencontrer la corporation. Il est impitoyable lorsqu'il reçoit un objectif (ici, combattre les Veks), et a servi dans l'armée de Terre dans sa ligne temporelle originelle. Il vola alors le Mech d'un pilote mourant (?) et utilisa la technologie de brèche pour s'échapper de son temps après que l'escouade complète du pilote spolié périsse sur l'île volcanique. Depuis lors, \"Abe\" a suivi les ordres de Kern et est déterminé à continuer à se battre jusqu'à ce que chaque Vek dans chaque ligne temporelle soit vaincu ... Une tâche sans espoir, mais à laquelle Abe s'y adonne sans compter. Et même s'il arrive à sauver une ligne temporelle, il ne peut pas se faire à l'idée que d'autres lignes temporelles sont encore menacées. Il n'a pas encore pu rencontrer son double temporel, et même si c'était le cas, il n'aurait pas pu le reconnaître en raison des nombreux visages qu'il a utilisé, au sens propre comme au sens figuré, au cours de son travail de \"nettoyeur\" avant les attaques Veks.",
     "review": true
   },
   "a53aa50bdbc9b2443e69a3aaf6067516": {
@@ -5976,7 +5974,7 @@
     "review": true
   },
   "7b71354c2d9b2300182676dfee5d8063": {
-    "text": "Bâtiment #corp intacte !"
+    "text": "Bâtiment #corp intact !"
   },
   "b66a45269d0eda1493329326d3ec0147": {
     "text": "Citoyens #corp présent dans ce bâtiment - ils sont en sécurité !"
@@ -6132,7 +6130,7 @@
     "text": "Non !"
   },
   "93b9976e7a0b68ed4c9acdbf21aae4ff": {
-    "text": "Non ! Le Pod !"
+    "text": "Non ! Le Module !"
   },
   "eccd7d9431f3167da641acd199185c50": {
     "text": "Non, Non, Non..."
@@ -6395,7 +6393,7 @@
     "review": true
   },
   "01403df661e08c5f1d1d7ba7b2104787": {
-    "text": "...Avez-vous détecté quelque chose d'étrange dans vos capteurs juste maintenant ?",
+    "text": "...Il n'y a pas eu quelque chose d'étrange dans vos capteurs ?",
     "review": true
   },
   "a7b8395f882dd6cccd0df92aef7ecbcd": {
@@ -6428,7 +6426,7 @@
     "text": "... Je pense que la centrale électrique est définitivement fermée."
   },
   "2356d0ba390bd290bf41a32349c199d9": {
-    "text": "... Je me demande si un autre moi est à l'intérieur de ce Pod."
+    "text": "... Je me demande si un autre moi est à l'intérieur de ce Module."
   },
   "1de0ad003b743c266164faabb08d5cbe": {
     "text": "... Je rapporterai la perte de l'usine à Zénith personnellement."
@@ -6515,13 +6513,13 @@
     "text": "[ 2 menaces Vek en retraite. Raison du retrait : Vek rivaux ]"
   },
   "cd0b5a8a1f0caae5dba09d3f54dc0d69": {
-    "text": "[ Un engin de sauvetage temporel, désigné \"Pod Temporel\", a été détruit ayant subit des dégâts lors de l'atterrissage ]"
+    "text": "[ Un engin de sauvetage temporel, désigné \"Module Temporel\", a été détruit ayant subit des dégâts lors de l'atterrissage ]"
   },
   "4e97398d2c187b5a6fdbbc6f50917811": {
-    "text": "[ Un engin de sauvetage temporel, désigné \"Pod Temporel\", a été détecté ]"
+    "text": "[ Un engin de sauvetage temporel, désigné \"Module Temporel\", a été détecté ]"
   },
   "f91ff75e95de236cc3a6e51e058e7790": {
-    "text": "[ Un engin de sauvetage temporel, désigné \"Pod Temporel\", a atterri à proximité]"
+    "text": "[ Un engin de sauvetage temporel, désigné \"Module Temporel\", a atterri à proximité]"
   },
   "e0c38e49d03dce4253133e60652c7dd7": {
     "text": "[ Un Vek a empêché un autre Vek de faire surface ]"
@@ -6842,7 +6840,7 @@
     "text": "[ Le Vek a été rendu inerte ]"
   },
   "08fa7b8e3a4c9e285ded7ee72c9db18f": {
-    "text": "[ Les Veks ont été détectés quittant la zone ]"
+    "text": "[ Les Veks quittent la zone ]"
   },
   "d6dd130b823575192e9d614d1fa85d5e": {
     "text": "[ Infestation Vek détectée ]"
@@ -6975,16 +6973,16 @@
     "text": "Une capsule temporelle entre dans notre zone de travail."
   },
   "1ff1268df8a58485a2038750834642e2": {
-    "text": "Un Pod Temporel provoque une perturbation dans l'atmosphère."
+    "text": "Un Module Temporel provoque une perturbation dans l'atmosphère."
   },
   "6d5c4e97abf23f13ee474162d592ad44": {
-    "text": "Un Pod Temporel se fraye un chemin à travers les nuages lors de sa descente."
+    "text": "Un Module Temporel se fraye un chemin à travers les nuages lors de sa descente."
   },
   "52f3be704570f6affe6d3f0c0f7ccfc6": {
-    "text": "Un Pod Temporel entre dans la zone de construction."
+    "text": "Un Module Temporel entre dans la zone de construction."
   },
   "9b66170df38b4851a568ba5e6d8c0962": {
-    "text": "Un Pod Temporel est en approche. Il peut inclure des contaminants pour les terres dans son sillage."
+    "text": "Un Module Temporel est en approche. Il peut inclure des contaminants pour les terres dans son sillage."
   },
   "21f837884f150a855449ca6d0cf1038a": {
     "text": "Une ruche Vek se trouve directement sous les réservoirs d'élimination des déchets dans cette région. Faites exploser les cuves, et l'écoulement chimique détruira la ruche."
@@ -7240,19 +7238,19 @@
     "review": true
   },
   "86ac311a92f73106e3263869862c22dd": {
-    "text": "Archive, Inc.",
+    "text": "la corporation d'Archive",
     "review": true
   },
   "bd30a4c06f0ffbf28d3e8cd507c224ba": {
-    "text": "Corporation R.S.T.",
+    "text": "la corporation R.S.T.",
     "review": true
   },
   "82dde728b276e862977dfdcca39a9f77": {
-    "text": "Pinnacle Robotics",
+    "text": "la corporation Pinnacle Robotics",
     "review": true
   },
   "4c1602ee972ff038ff7315df5194af92": {
-    "text": "Detritus Disposal",
+    "text": " la corporation Detritus",
     "review": true
   },
   "b39d6aa2db64247241f35ef8d3977c12": {
@@ -7586,7 +7584,7 @@
     "text": "les Robots de Réparation"
   },
   "97ef4a7bb403bc1f3707bf6dee361077": {
-    "text": "Hélas, avec cette abomination Vek encore vivante, les Veks restent une menace sérieuse dans la région. Je ne peux que vous souhaitez d'être plus efficace sur les autres îles.",
+    "text": "Hélas, avec cette abomination Vek encore vivante, les Veks restent une menace sérieuse dans la région. Je ne peux que vous souhaiter d'être plus efficace sur les autres îles.",
     "review": true
   },
   "dc17299d1a4aecffb360400f76ce40cc": {
@@ -8196,7 +8194,7 @@
     "review": true
   },
   "4f1c6b3fa81ff78a4d111e7f1541f772": {
-    "text": "R.S.T. les pilotes ne sont pas idtios et partagent une grande partie du pragmatisme parfois trop aggressif de Kerns. Ils ont tendance à être plus durs et tenaces que les autres pilotes de l'île. Parfois raide et militaire (\"commandant\"), mais à d'autres moments, leur empressement à tuer Vek sort."
+    "text": "R.S.T. les pilotes ne sont pas idiots et partagent une grande partie du pragmatisme parfois trop aggressif de Kern. Ils ont tendance à être plus durs et tenaces que les autres pilotes de l'île. Parfois raide et militaire (\"commandant\"), mais à d'autres moments, leur empressement à tuer Vek sort."
   },
   "7dcc667a5c4b903654b7f5917826f03d": {
     "text": "Pinnacle sont tous des I.A./êtres artificiels doués de raison, juste pour renforcer le thème robotique (même s'il y a des humains sur l'île).",
@@ -8383,14 +8381,14 @@
     "text": "Aucun signe du réseau de l'île Pinnacle... Pourquoi ? Pinnacle a l'air d'être restreinte à une seule île. Pourquoi n'ont-ils pas pris le contrôle des autres îles ?"
   },
   "efbc14e158622799da2a8ee6e34a298d": {
-    "text": "Apparaît sur l'écran d'île après avoir trouvé le pilot FTL dans un pod.",
+    "text": "Apparaît sur l'écran d'île après avoir trouvé le pilot FTL dans un module.",
     "review": true
   },
   "8a18ac24659ce406a1d54bec44939065": {
-    "text": "Euh... Ce Pod.... vaisseau... ou quoi ce soit... a un occupant. Je ne comprends rien à ce qu'il dit mais il a l'air... amical ?"
+    "text": "Euh... Ce Module.... vaisseau... ou quoi ce soit... a un occupant. Je ne comprends rien à ce qu'il dit mais il a l'air... amical ?"
   },
   "e0907d88fa4480aa71285d970479149a": {
-    "text": "Il y a... quelque chose à l'intérieur du Pod, commandant. Cela communique mais de quoi cela parle ? Je ne sais pas..."
+    "text": "Il y a... quelque chose à l'intérieur du Module, commandant. Cela communique mais de quoi cela parle ? Je ne sais pas..."
   },
   "b5e3a1242fb3a4e4e9a29bcc84baf60f": {
     "text": "Le vaisseau a un pilote but impossible de décoder ce qu'il dit."
@@ -8420,7 +8418,7 @@
     "text": "Qui ou quoi que ce soit baragouine un langage que je ne comprends pas !"
   },
   "c396b68955e0c45b56b790c9e8fda6e6": {
-    "text": "Mes systèmes n'arrivent pas à traduire ce que dit cette être... ou quoi que cela pourrait être, commandeur."
+    "text": "Mes systèmes n'arrivent pas à traduire ce que dit cette être... ou quoi que cela pourrait être, Commandant."
   },
   "230db840e1cbe57c1559034983c265e2": {
     "text": "Le vaisseau du pilote n'émet aucun tachyon. Son langage est inconnu de ma base de données linguistique."
@@ -8439,7 +8437,7 @@
     "text": "Pourquoi le future nous envoie-t-il un extraterrestre qui ne peut pas communiquer avec nous ?"
   },
   "7765ed7f2d8c2eaa46962797228b7a6d": {
-    "text": "Je crois qu'il essaie de communiquer avec nous, commandeur... Enfin, il a l'air de vouloir nous aider."
+    "text": "Je crois qu'il essaie de communiquer avec nous, Commandant... Enfin, il a l'air de vouloir nous aider."
   },
   "bf70c315ee989d48710cbaa5afdf261c": {
     "text": "Je crois que le voyageur temporel extraterrestre va mener la charge contre les Veks."
@@ -8562,7 +8560,7 @@
     "review": true
   },
   "f1dcc347bd801eb9a0b88dd2b4fcb494": {
-    "text": "Je suis de retour. Le PDG Kern ne m'a pas donné la permission de mourir."
+    "text": "Je suis de retour. La PDG Kern ne m'a pas donné la permission de mourir."
   },
   "866ec9911afda6bf64732a22568a6ba3": {
     "text": "J'ai juste besoin de faire des vérifications de sécurité et je suis de nouveau opérationnel pour le combat."
@@ -8653,7 +8651,7 @@
     "text": "C'est pour moi !"
   },
   "e2eaf549932e09e0a4b150b9bddf48bb": {
-    "text": "C'était un honneur de vous servir, commandeur."
+    "text": "C'était un honneur de vous servir, Commandant."
   },
   "bb28727f0b99ab3d7f46c16cb9895469": {
     "text": "Transmission... des derniers... métriques de combat maintenant."
@@ -8905,7 +8903,7 @@
     "text": "Très bien, la récréation est terminée."
   },
   "6ffdcfed04551e9ee993e76c5ca96d56": {
-    "text": "Très bien, le Pod Temporel est stocké en toute sécurité dans le cargo."
+    "text": "Très bien, le Module Temporel est stocké en toute sécurité dans le cargo."
   },
   "9ab915a79d8eb8909dc5dd7e0eb81d73": {
     "text": "Bien, qui est le prochain ?"
@@ -8974,7 +8972,7 @@
     "text": "Aucun sacrifice ne sera vain."
   },
   "5695a39b1a710bada2881bccf58b97af": {
-    "text": "Nous pleurons la perte de votre pilote, commandeur."
+    "text": "Nous pleurons la perte de votre pilote, Commandant."
   },
   "75312f40f98722ec5515e5c72272f795": {
     "text": "Il n'y a plus aucun signe de vie de #main_second. Sa perte est ressentie par tous.",
@@ -9059,7 +9057,7 @@
     "text": "Cette I.A. limitée était à la fois un atout et une vie unique. Elle nous manquera."
   },
   "4c2f0c229b70d9e25b5e5145415b47c3": {
-    "text": "Nous devrions être capable de réparer votre Mech après la bataille, commandeur. En revanche, cette I.A. devra être changée."
+    "text": "Nous devrions être capable de réparer votre Mech après la bataille, Commandant. En revanche, cette I.A. devra être changée."
   },
   "8feb4cae9e0f397a85b29f3252744d30": {
     "text": "La dernière chose que le pilote dit avant de voyager après une victoire.",
@@ -9124,7 +9122,7 @@
     "text": "à la prochaine ? Ne m'oubliez pas, ni moi, ni ce que nous avons accompli aujourd'hui."
   },
   "796913f27fbe8e61ac621d9868982460": {
-    "text": "C'était... un honneur, commandeur, de servir à vos côtés, vous et #squad."
+    "text": "C'était... un honneur, Commandant, de servir à vos côtés, vous et #squad."
   },
   "2fd6ab58815362904845d6662ba3e085": {
     "text": "Puissions nous rencontrer encore dans chaque ligne temporelle sauvée."
@@ -9699,7 +9697,7 @@
     "text": "Installation complète."
   },
   "1c71105a94df3528512103f50f8150ee": {
-    "text": "Pouvez-vous regarder ça !"
+    "text": "Regardez ça !"
   },
   "6de4348962f2e5cd496abb306349f34c": {
     "text": "Les indicateurs d'énergie sont allumés maintenant.",
@@ -10169,7 +10167,7 @@
     "text": "On les a tous tués. #corp sera heureuse de l'apprendre."
   },
   "5a725b3227ccf3f07912d5adc07fe5c9": {
-    "text": "Même Kern a un sourire."
+    "text": "Même Kern a souri."
   },
   "4148bc3fe1ea348288edf41d161794f2": {
     "text": "La région est libérée des Veks, Commandant."
@@ -10842,13 +10840,13 @@
     "text": "La bombe Rendield est prête. Je vous recommande de partir maintenant ou vous partagerez cette tombe avec les Veks."
   },
   "c84ec09cfb6723520376ed0b77d825e4": {
-    "text": "Le pod va atterrir"
+    "text": "Le module va atterrir"
   },
   "128115dbcedd89de049d441f6a9062ea": {
-    "text": "Mise à jour : Pod détecté"
+    "text": "Mise à jour : Module détecté"
   },
   "9fcba1b4612aaa5abf9e28b0ca6d48c3": {
-    "text": "Est-ce que c'est l'un de ces Pods dont vous parliez?"
+    "text": "Est-ce que c'est l'un de ces Modules dont vous parliez?"
   },
   "0231c4f9f8c73359c96ec9851b2dc4b8": {
     "text": "Nous détectons un objet, Commandant."
@@ -10857,46 +10855,46 @@
     "text": "Nos capteurs ont détecté un objet non identifié."
   },
   "94bc4528ed2dbbe8cc43ebedbb4daa57": {
-    "text": "Un Pod temporel va atterrir dans la zone."
+    "text": "Un Module temporel va atterrir dans la zone."
   },
   "64a5f6d495dc1d0bc0c1c1e677d18fab": {
-    "text": "Nos senseurs détectent l'arrivée imminente d'un Pod temporel."
+    "text": "Nos senseurs détectent l'arrivée imminente d'un Module temporel."
   },
   "5b931362c1c46cef9b102124a0862d47": {
-    "text": "Nos senseurs viennent de détecter - un Pod temporel."
+    "text": "Nos senseurs viennent de détecter - un Module temporel."
   },
   "6e38d2525412b4c07b07667ec504a40f": {
-    "text": "Regardez ! Un Pod temporel !"
+    "text": "Regardez ! Un Module temporel !"
   },
   "8afa93e3851ffb8af08c29b97b0d4dc1": {
-    "text": "Nos capteurs détectent un Pod temporel !"
+    "text": "Nos capteurs détectent un Module temporel !"
   },
   "4e1d65ecd3ddfd1470efab6ba3f6f2fb": {
-    "text": "J'ai quelque chose sur mes senseurs - c'est un Pod temporel !"
+    "text": "J'ai quelque chose sur mes senseurs - c'est un Module temporel !"
   },
   "588d1ff691b95f96e4a7593d10f7055b": {
     "text": "Attention à votre tête."
   },
   "4d6565828baa9dac07c4fbd06fd418f5": {
-    "text": "Calcul de la trajectoire d'impact d'un Pod temporel..."
+    "text": "Calcul de la trajectoire d'impact d'un Module temporel..."
   },
   "7313ec8a7fa34b6edcf4e469094ae1d3": {
-    "text": "Je détecte une distorsion temporelle... Un Pod temporel !"
+    "text": "Je détecte une distorsion temporelle... Un Module temporel !"
   },
   "df549574a39ae61bbafaf5f1a726a7dc": {
-    "text": "Détection d'une émission de Tachyons... Un Pod temporel !"
+    "text": "Détection d'une émission de Tachyons... Un Module temporel !"
   },
   "40804c326c018bebc671dff6b7a524c0": {
-    "text": "Quoi ? Une alerte d'impact imminent ? Est-ce un Pod ?"
+    "text": "Quoi ? Une alerte d'impact imminent ? Est-ce un Module temporel ?"
   },
   "b8f9ecb89bc2e603a844ac2c9fd3dd27": {
-    "text": "J'ai des relevés complètement fous... Je pense qu'un Pod approche !"
+    "text": "J'ai des relevés complètement fous... Je pense qu'un Module temporel est en approche !"
   },
   "bea3527344d06075f317a0e2846df42e": {
-    "text": "Les senseurs détectent un Pod temporel."
+    "text": "Les senseurs détectent un Module temporel."
   },
   "925178b9b1b858afa8dfd456547f730a": {
-    "text": "J'ai un Pod temporel en approche."
+    "text": "J'ai un Module temporel en approche."
   },
   "1a844936fedad31f9f46606e0f4e1d79": {
     "text": "On dirait qu'un cadeau du futur va arriver."
@@ -10905,82 +10903,82 @@
     "text": "Objet étranger en approche !"
   },
   "29ce8ade5c4227518f53bd60c331a66e": {
-    "text": "Pod temporel en approche !"
+    "text": "Module temporel en approche !"
   },
   "95707c12d0c42050427c2e652db7db51": {
-    "text": "P-p-pod temporel en approche. J'esp-esp-espère qu'il survivra à son atterrissage..."
+    "text": "M-m-module temporel en approche. J'esp-esp-espère qu'il survivra à son atterrissage..."
   },
   "7e37a8cefcff9244571b2793ca0588fe": {
     "text": "Anomalie atmosphérique détectée."
   },
   "1283b6fe793d212562227d21a81cd5cd": {
-    "text": "Mes capteurs détectent un Pod temporel."
+    "text": "Mes capteurs détectent un Module temporel."
   },
   "b90b67dd64991a337e8bb83d23653173": {
-    "text": "Nos satellites détectent un Pod en approche."
+    "text": "Nos satellites détectent un Module en approche."
   },
   "e02acca8a8369620d6afa3fff43b0fa4": {
-    "text": "Un autre Pod de 'votre futur' est en approche."
+    "text": "Un autre Module de 'votre futur' est en approche."
   },
   "293c32cbab8ec11156a20c9435f96664": {
-    "text": "J'ai détecté un Pod temporel. Sa trajectoire indique qu'il va atterrir près de vous."
+    "text": "J'ai détecté un Module temporel. Sa trajectoire indique qu'il va atterrir près de vous."
   },
   "4d697ffe221c7ca247362f2b379cec29": {
     "text": "Nous avons détecté un projectile en approche - il est sorti de nulle part !"
   },
   "72350b3f7683b60df5ed064ad0fb21c1": {
-    "text": "Nouvel Objectif Secondaire : Acquérir les ressources du Pod"
+    "text": "Nouvel Objectif Secondaire : Acquérir les ressources du Module"
   },
   "db1ea616d8ac892b3a760b50be33859a": {
-    "text": "Allons récupérer le Pod si c'est possible !"
+    "text": "Allons récupérer le Module si c'est possible !"
   },
   "a77dca4bca94908fe45d11133a33ce8f": {
-    "text": "Ne laissez pas les Veks marcher sur le Pod sinon ils vont le détruire !"
+    "text": "Ne laissez pas les Veks marcher sur le Module sinon ils vont le détruire !"
   },
   "7d0848318fce6d80b83af314aabd95ae": {
-    "text": "C'est l'un de ces Pods. Il pourrait y avoir quelqu'un dedans."
+    "text": "C'est l'un de ces Modules. Il pourrait y avoir quelqu'un dedans."
   },
   "6e359a9308c3fe90371cf56ee867c0d1": {
     "text": "Je suppose que nous sommes bon pour un ravitaillement."
   },
   "9fe0fba072a2ee84b4ec64808bb3ceae": {
-    "text": "Soyez sûr de suivre les protocoles de sécurité avant d'ouvrir ce Pod."
+    "text": "Soyez sûr de suivre les protocoles de sécurité avant d'ouvrir ce Module."
   },
   "dc5a1542e13e03ac5a447539167bf9fb": {
-    "text": "Sécurisez le Pod avant que les Veks ne le détruisent."
+    "text": "Sécurisez le Module avant que les Veks ne le détruisent."
   },
   "d9dde1755b02b467ca5ae5a0c5f2e1c7": {
-    "text": "Nous pouvons essayez de sécuriser le Pod - ou sécurisez ses environs en premier."
+    "text": "Nous pouvons essayez de sécuriser le Module - ou sécurisez ses environs en premier."
   },
   "a19500a3ad518120f3e59a26dff2116f": {
-    "text": "Ce Pod - nous avons besoin de ce qu'il contient."
+    "text": "Ce Module - nous avons besoin de ce qu'il contient."
   },
   "85a09f0279c6a90543692e58ca8a92b9": {
-    "text": "Éloignez les Veks du Pod avant qu'ils ne le broient."
+    "text": "Éloignez les Veks du Module avant qu'ils ne le broient."
   },
   "40b75ac1544b5448e5147533e8b4d4a8": {
-    "text": "Sécurisez le Pod."
+    "text": "Sécurisez le Module."
   },
   "f75b82016e147c57c1b9e1719b042ba3": {
-    "text": "Sécurisez moi ce Pod !"
+    "text": "Sécurisez moi ce Module !"
   },
   "f6b04771b5541ae82e16daa54d0a73c0": {
-    "text": "Nous avons besoin de récupérer ce Pod avant les Veks."
+    "text": "Nous avons besoin de récupérer ce Module avant les Veks."
   },
   "8aa23223531fa715e2274e8078399783": {
-    "text": "Assurez vous que les civils soient à l'abri en premier ! Le Pod peut attendre !"
+    "text": "Assurez vous que les civils soient à l'abri en premier ! Le Module peut attendre !"
   },
   "95aac95831e48056dee48aad1ab6ccd2": {
-    "text": "Les civils en premier, ensuite le Pod !"
+    "text": "Les civils en premier, ensuite le Module !"
   },
   "d766bdd3299fc9028857a7ea5e3be0d0": {
-    "text": "Nous devons garder ce Pod en sécurité !"
+    "text": "Nous devons garder ce Module en sécurité !"
   },
   "56d0da39ba411d41143075cdd09b3d41": {
     "text": "Quelqu'un d'autre l'a eu."
   },
   "c7ddc3467a5bfdf0424344240f6df884": {
-    "text": "Si ce Pod contient des armes, gardez les pour l'après bataille.",
+    "text": "Si ce Module contient des armes, gardez les pour l'après bataille.",
     "review": true
   },
   "1c409e828ff18deec964f39f0bbc7b8f": {
@@ -10990,10 +10988,10 @@
     "text": "Nous ne pouvons pas laisser cette technologie se faire endommager !"
   },
   "96ce916ec959a93e5b52e5e10e1ff5f8": {
-    "text": "Ce Pod temporel a perturbé le sol. Devons-nous l'enlever ?"
+    "text": "Ce Module temporel a perturbé le sol. Devons-nous l'enlever ?"
   },
   "4ab68f05f4c099e67707f7fab65edf19": {
-    "text": "Le sol a été contaminé par l'impact du Pod temporel."
+    "text": "Le sol a été contaminé par l'impact du Module temporel."
   },
   "326c05c32b4b07eca0127993b274edcc": {
     "text": "Oooh... quelqu'un nous a envoyé un cadeau !"
@@ -11002,10 +11000,10 @@
     "text": "Je vais voir si je peux l'attraper !"
   },
   "6818c9e272436e8757264a1a7449976d": {
-    "text": "Souvenez vous - le Réseau en premier, ensuite les Veks et enfin la sécurisation du Pod."
+    "text": "Souvenez vous - le Réseau en premier, ensuite les Veks et enfin la sécurisation du Module."
   },
   "812e3d014b7227992a279efd9a76a0ad": {
-    "text": "La Chance est de notre côté. Allons récupérer ce Pod !"
+    "text": "La Chance est de notre côté. Allons récupérer ce Module !"
   },
   "c52b7ce7992f6bfabc6297355f744782": {
     "text": "Nous avons besoin de soldats aguerris, pas de jouets supplémentaires."
@@ -11014,162 +11012,162 @@
     "text": "Ne rompez pas la formation - la mission d'abord, ensuite nous irons récupérer le chargement."
   },
   "2ef256f3a694453f7a300995ddb0df4c": {
-    "text": "Concentrez vous sur la mission, pas sur le Pod."
+    "text": "Concentrez vous sur la mission, pas sur le Module."
   },
   "7bd2249deebcf3fc50276963f977e627": {
-    "text": "Sécurisez le Pod temporel et retenez ses composants pour un interrogatoire."
+    "text": "Sécurisez le Module temporel et retenez ses composants pour un interrogatoire."
   },
   "908cba6682b92622fac65f91be45da26": {
-    "text": "Ce Pod temporel viole les protocoles du code du travail de l'hygiène et de la sécurité."
+    "text": "Ce Module temporel viole les protocoles du code du travail de l'hygiène et de la sécurité."
   },
   "a77ef0a720630ceacdfba4e1c9d06d12": {
-    "text": "Pou-pouvons nous récupérer le Pod avant nos ennemis ?"
+    "text": "Pou-pouvons nous récupérer le Module avant nos ennemis ?"
   },
   "4c6f90d7e41d19d6c3812c17308fe822": {
-    "text": "N-nous devrions être prudent qu-quand nous utilisons nos armes près du Pod. No-nous pou-pourrions l'endommager."
+    "text": "N-nous devrions être prudent qu-quand nous utilisons nos armes près du Module. No-nous pou-pourrions l'endommager."
   },
   "501b0747ffc73c9953a441c0690f6c15": {
     "text": "D-dois-je le récupérer ? Ou... Est-ce-ce que quelqu'un peut le faire ?"
   },
   "0b87c55c4d3acaa2d06c7ef206dd2e5f": {
-    "text": "Attention à ce Pod... Nous ne sa-savons pas d'où ni de quand il vient..."
+    "text": "Attention à ce Module... Nous ne sa-savons pas d'où ni de quand il vient..."
   },
   "1130e740c5028d978de5f7820257a9e3": {
-    "text": "Le Pod a creusé une tranchée non autorisée sur la surface de l'île."
+    "text": "Le Module a creusé une tranchée non autorisée sur la surface de l'île."
   },
   "9cd524f5fe65ac8d1dce05296b5f964a": {
-    "text": "Je me demande si le Pod aura un être aussi intelligent que moi à son bord."
+    "text": "Je me demande si le Module aura un être aussi intelligent que moi à son bord."
   },
   "b7eaacac2881b74e07beee43aec95483": {
-    "text": "il est vital à ce que nous récupérions ce Pod. Il pourrait contenir quelque chose qui pourrait nous aider à gagner cette guerre."
+    "text": "il est vital à ce que nous récupérions ce Module. Il pourrait contenir quelque chose qui pourrait nous aider à gagner cette guerre."
   },
   "b9c0ea86aa4432eff782e37b8cd894e1": {
-    "text": "Ce Pod est techniquement la propriété de l'entreprise, assurez vous à ce qu'il soit récupéré en un morceau."
+    "text": "Ce Module est techniquement la propriété de l'entreprise, assurez vous à ce qu'il soit récupéré en un morceau."
   },
   "2bd6bcfd5c8c398f614e1ffb2733a900": {
-    "text": "Je veux ce Pod intact... Et si vous n'arrivez pas à le récupérer pendant la bataille, éloignez les Veks de lui."
+    "text": "Je veux ce Module intact... Et si vous n'arrivez pas à le récupérer pendant la bataille, éloignez les Veks de lui."
   },
   "634c80f8a1ceaf1d5a20b57a9aa93609": {
-    "text": "Si seulement ces Pods pouvaient tuer quelques Veks en tombant."
+    "text": "Si seulement ces Modules pouvaient tuer quelques Veks en tombant."
   },
   "8d63d8a02a2f05ec9c176fcba08e7402": {
-    "text": "Si vous pouvez sécurisez le Pod temporel, faites le, mais ne mettez pas en danger les êtres doués de raison."
+    "text": "Si vous pouvez sécurisez le Module temporel, faites le, mais ne mettez pas en danger les êtres doués de raison."
   },
   "bcd7f88ac18c5eeef216f5a61c085482": {
-    "text": "La technologie de ce Pod temporel pourrait nous aider à protéger cette île et les autres."
+    "text": "La technologie de ce Module temporel pourrait nous aider à protéger cette île et les autres."
   },
   "3631b1a24b74c2208a284175021e7c6f": {
     "text": "Quel que soit l'objet, récupérez-le si vous le pouvez, mais ne vous mettez pas en danger."
   },
   "078d249c63d731644e6f5edb76c971ac": {
-    "text": "Pod collecté (par le pilot en train de parler)"
+    "text": "Module collecté (par le pilot en train de parler)"
   },
   "a7831efd61634108f6ec0a163cbaabf9": {
-    "text": "Mise à jour : Pod récupéré"
+    "text": "Mise à jour : Module récupéré"
   },
   "491575ab7dea5b1d0be7f8e3e9082b1e": {
-    "text": "J'ai récupéré le Pod !"
+    "text": "J'ai récupéré le Module !"
   },
   "e576f93c790adbeb48e1d7cfe23be202": {
     "text": "Maintenant concentrons nous sur la mission."
   },
   "5b733a70ad423e035e2656c6060448a4": {
-    "text": "Le Pod temporel a été récupéré en tout sécurité."
+    "text": "Le Module temporel a été récupéré en tout sécurité."
   },
   "4a855b7dcedbafdd5bf120b34730223b": {
-    "text": "J'ai le Pod. Concentrez vous sur vos ennemis."
+    "text": "J'ai le Module. Concentrez vous sur vos ennemis."
   },
   "098f0c050b90136d7c522fe6e6b62cef": {
-    "text": "Le Pod est en ma possession."
+    "text": "Le Module est en ma possession."
   },
   "344970fff63f64285caa95ce95910019": {
     "text": "Technologie acquise !"
   },
   "8830fb3bc6772277c53d7e9d5a3f3cfa": {
-    "text": "J'ai sécurité le Pod !"
+    "text": "J'ai sécurité le Module !"
   },
   "19fc9ff15f42514016a1acaf2729d66a": {
-    "text": "Le Pod temporel a été extrait de son habitat."
+    "text": "Le Module temporel a été extrait de son habitat."
   },
   "9e7416d0fa5f95963ec4a24f4680af2a": {
-    "text": "Pod temporel récupéré. La tranchée créée par son atterrissage devra être refertilisée."
+    "text": "Module temporel récupéré. La tranchée créée par son atterrissage devra être refertilisée."
   },
   "36ca3d21dfa8dd0abd3f42b78b171590": {
-    "text": "Désherbage terminé. Pod temporel enlevé.",
+    "text": "Désherbage terminé. Module temporel enlevé.",
     "review": true
   },
   "57fd9599c57bd56cf081875302337324": {
-    "text": "J'ai attrapé le Pod ! Attendez... est ce que cela signifie que je suis 'ça' ?"
+    "text": "J'ai attrapé le Module ! Attendez... est ce que cela signifie que je suis 'ça' ?"
   },
   "e2d27363f2197b31716ed3ad4f89c3c2": {
-    "text": "Pod en sécurité !"
+    "text": "Module en sécurité !"
   },
   "29dcec1c055a7682ad163f3c6bde69a7": {
-    "text": "Pod sécurisé. Maintenant concentrez vous sur l'objectif primaire."
+    "text": "Module sécurisé. Maintenant concentrez vous sur l'objectif primaire."
   },
   "c90d40fe47ffed8f47dd77644e3211cb": {
-    "text": "J'ai le Pod ! ",
+    "text": "J'ai le Module ! ",
     "review": true
   },
   "b57cc5d13f3610ee3388d9b2abb743ed": {
-    "text": "J'ai déterré le Pod - vous pourrez me remercier plus tard."
+    "text": "J'ai déterré le Module - vous pourrez me remercier plus tard."
   },
   "88a8311f8d5a06c72685383e37cbf597": {
-    "text": "J'espère que mon Père n'est pas à l'intérieur du Pod..."
+    "text": "J'espère que mon Père n'est pas à l'intérieur du Module..."
   },
   "faaaa3f87be06027e4ed483b333910f8": {
-    "text": "Le Pod temporel est dans ma soute."
+    "text": "Le Module temporel est dans ma soute."
   },
   "59161aa308c4a3df55072a28eb15cff8": {
-    "text": "Pod temporel récupéré, Commandant."
+    "text": "Module temporel récupéré, Commandant."
   },
   "ebe7d01508d6166dbf3b3943894a73c4": {
-    "text": "Nous avons récupéré le Pod."
+    "text": "Nous avons récupéré le Module."
   },
   "f20546ae0bed36903ed9e4fbb8b61326": {
-    "text": "Le Pod temporel a été appréhendé et ses composants sont en train d'être interrogés."
+    "text": "Le Module temporel a été appréhendé et ses composants sont en train d'être interrogés."
   },
   "232345f28e33fdfb343893a8824fa403": {
-    "text": "Le Pod temporel a été appréhendé et ses composants sont retenus pour un interrogatoire."
+    "text": "Le Module temporel a été appréhendé et ses composants sont retenus pour un interrogatoire."
   },
   "ebdc3c689bfbb0b072e8d72d81c93c42": {
-    "text": "Je superviserai le démantèlement de ce Pod temporel personnellement."
+    "text": "Je superviserai le démantèlement de ce Module temporel personnellement."
   },
   "96c2536e90e0d6299bf31f1f01a20fec": {
     "text": "J'ai ré-réussi à le sauver !"
   },
   "f69858c64bd55972af8d12778c096451": {
-    "text": "Le Pod... est en sé-sécurité ! Pour le moment."
+    "text": "Le Module... est en sé-sécurité ! Pour le moment."
   },
   "5c2a3111d3e45792b66570ee168046ff": {
-    "text": "J'ai le Pod - il est encore correctement scé-scellé."
+    "text": "J'ai le Module - il est encore correctement scé-scellé."
   },
   "121a51826851db45f60ade5072df9476": {
-    "text": "J'ai récupéré le P-P-Pod. il a l'air in-intact."
+    "text": "J'ai récupéré le M-m-module. il a l'air in-intact."
   },
   "9de62c9f6295032704518f4f6c473e40": {
-    "text": "Pod extrait du terrain."
+    "text": "Module extrait du terrain."
   },
   "e07c12cc1b1f17544b8a56e67ed1f0e7": {
-    "text": "J'ai récupéré le Pod temporel. Comme prévu, il est sale."
+    "text": "J'ai récupéré le Module temporel. Comme prévu, il est sale."
   },
   "d51d8284be3bdac92073e859eb9da169": {
-    "text": "J'ai le plaisir de vous annoncer que, grâce à mes efforts, le Pod temporel est sécurisé."
+    "text": "J'ai le plaisir de vous annoncer que, grâce à mes efforts, le Module temporel est sécurisé."
   },
   "9ae3d027d760ce50b7f331d7ca2f6b68": {
-    "text": "Pod détruit (par tous, Vek inclus, excepté par le narrateur)"
+    "text": "Module détruit (par tous, Vek inclus, excepté par le narrateur)"
   },
   "bc002cde4ad1a905a44fad0240949616": {
-    "text": "Mise à jour : Pod Détruit"
+    "text": "Mise à jour : Module Détruit"
   },
   "52e8c2f212630a2042aaabeb679719d6": {
-    "text": "J'espère que personne n'était dans ce Pod..."
+    "text": "J'espère que personne n'était dans ce Module..."
   },
   "419a363ebada2eb688ccf91f6e0b5e9f": {
-    "text": "Le Pod n'était qu'une distraction de toute façon."
+    "text": "Le Module n'était qu'une distraction de toute façon."
   },
   "e032c1a8a1cd5102b0559afbc1db4cf2": {
-    "text": "Le Pod n'était pas notre objectif principal, mettez le de côté."
+    "text": "Le Module n'était pas notre objectif principal, mettez le de côté."
   },
   "323c7ee394726f44a66452e0634b7b7a": {
     "text": "Nous avons fait de notre mieux pour le récupérer."
@@ -11179,88 +11177,88 @@
     "review": true
   },
   "a76d13e2a78e3dbfd2426103a48f774c": {
-    "text": "Celui qui a conçu ses Pods aurait du renforcer les coques..."
+    "text": "Celui qui a conçu ses Modules aurait du renforcer les coques..."
   },
   "a218f6f2f1f8bfb42e8c9ee92e543e6c": {
-    "text": "Nous avons perdu le Pod !"
+    "text": "Nous avons perdu le Module !"
   },
   "d98de45e84a40bf3a3b6f873eada8a24": {
     "text": "Si seulement nous avions pu le récupérer..."
   },
   "c3463e8844cbe0c024568b46d6f8c76d": {
-    "text": "Le Pod n'a plus besoin de notre protection maintenant."
+    "text": "Le Module n'a plus besoin de notre protection maintenant."
   },
   "49750bafc4bddc2712a86fb93ae18e17": {
-    "text": "Le Pod a été détruit. Concentrez vous sur les Veks."
+    "text": "Le Module a été détruit. Concentrez vous sur les Veks."
   },
   "f93984e9778bffe36925d20163f147e8": {
-    "text": "Le Pod... Il a été détruit."
+    "text": "Le Module... Il a été détruit."
   },
   "1c20893b9508bcf193c13a321ad66a9f": {
-    "text": "Les débris du Pod temporel fuient dans le sol maintenant."
+    "text": "Les débris du Module temporel fuient dans le sol maintenant."
   },
   "443758831389870c4463b4e70334c0fa": {
-    "text": "Le Pod temporel... Et son éventuel occupant... enrichissent le sol maintenant."
+    "text": "Le Module temporel... Et son éventuel occupant... enrichissent le sol maintenant."
   },
   "5efa14e6c0ea6dad02519186bfa73e00": {
-    "text": "Le Pod... oh non."
+    "text": "Le Module... oh non."
   },
   "8b08e0de9bcd80501c622c4fa48d4df3": {
     "text": "Quoi... Et s'il y avait eu une personne dedans ?"
   },
   "5ad48f8d5ce9fdfd7501849663f707c4": {
-    "text": "Le Pod est détruit. Concentrez vous sur l'objectif principal."
+    "text": "Le Module est détruit. Concentrez vous sur l'objectif principal."
   },
   "ebe1f11dea1b6626beb4cb0c6f31b1e8": {
-    "text": "C'est insensé de pleurer sur un Pod complètement détruit."
+    "text": "C'est insensé de pleurer sur un Module complètement détruit."
   },
   "727448f6adbf331dbf412b6d51d8ae8c": {
-    "text": "Le Pod n'aurait jamais du atterrir dans une zone de combat."
+    "text": "Le Module n'aurait jamais du atterrir dans une zone de combat."
   },
   "57271997f1d8070815e18e37f2d48471": {
-    "text": "Le Pod temporel a été détruit, Commandant."
+    "text": "Le Module temporel a été détruit, Commandant."
   },
   "f8484a59b8d8ed1de28e6e290909624d": {
-    "text": "Le Pod a été perdu."
+    "text": "Le Module a été perdu."
   },
   "2f9f76bdd6c3c51dea59fcc3a4ec4020": {
-    "text": "Récupération du Pod échouée, Commandant."
+    "text": "Récupération du Module échouée, Commandant."
   },
   "e712cbe6c630b53d774926dbdc0f5b2d": {
-    "text": "Le Pod temporel n'entrave plus la zone de chantier."
+    "text": "Le Module temporel n'entrave plus la zone de chantier."
   },
   "b1926980adb060de5c32947c707b9f6d": {
-    "text": "Le Pod temporel a prouvé qu'il est insensé d'entrer dans une zone de chantier sans une autorisation appropriée."
+    "text": "Le Module temporel a prouvé qu'il est insensé d'entrer dans une zone de chantier sans une autorisation appropriée."
   },
   "14a3751ae61ffe733cf3db2f7a610254": {
-    "text": "L'intégrité structurelle du Pod temporel a été compromise."
+    "text": "L'intégrité structurelle du Module temporel a été compromise."
   },
   "a4fe139a54ffd0feace222ae027b75d4": {
-    "text": "Le Pod... Il a été d-d-détruit."
+    "text": "Le Module... Il a été d-d-détruit."
   },
   "6c982020cc699b79240d06a90a68f799": {
-    "text": "Si seulement ce P-Pod avait atterri ai-ailleurs."
+    "text": "Si seulement ce M-Module avait atterri ai-ailleurs."
   },
   "64c8d9b165195fdf66fd005a8a5edad0": {
     "text": "Pe-pensez-vous qu'il y avait qu-quelqu'un dedans ?"
   },
   "2fcf83eca0d26a797114f4dc314d8684": {
-    "text": "Le Pod a été dispersé sur une surface plus grande."
+    "text": "Le Module a été dispersé sur une surface plus grande."
   },
   "e299d783a6230f352c17a556842d3fe1": {
-    "text": "J'ai le regret de vous informer que le Pod temporel souffre de dommages irréparables."
+    "text": "J'ai le regret de vous informer que le Module temporel souffre de dommages irréparables."
   },
   "2af95ad40363b92431b6bf09fa6ae840": {
-    "text": "Peut-être que quelque chose peut être récupéré de l'épave du Pod. Bien que vu d'ici, j'en doute vraiment."
+    "text": "Peut-être que quelque chose peut être récupéré de l'épave du Module. Bien que vu d'ici, j'en doute vraiment."
   },
   "11159add2873ff175413506277cfdff1": {
     "text": "Négligent."
   },
   "361125acdede7f5b77f36f4737a73473": {
-    "text": "J'espère qu'il n'y avait pas de pilot dans ce Pod."
+    "text": "J'espère qu'il n'y avait pas de pilot dans ce Module."
   },
   "52fb76b79825ce6c211a8b9142c78fec": {
-    "text": "La technologie contenue dans ce Pod aurait pu sauver de nombreuses vies."
+    "text": "La technologie contenue dans ce Module aurait pu sauver de nombreuses vies."
   },
   "c6a0c2926a6c3d5c3be8b5027416b295": {
     "text": "C'est dommage. J'espère qu'il n'y avait pas un de vos pilotes à l'intérieur, Commandant. "
@@ -11442,19 +11440,19 @@
     "text": "L'appareil en train d'émettre une type de signal... Étrange, même si je n'arrive pas à le déchiffrer."
   },
   "749b83b83241e339d15b2a1fdd83780a": {
-    "text": "Mise à jour : Anomalie en approche"
+    "text": "Mise à jour : Anomalie imminente"
   },
   "aef765da3eb9bfaaeaa18b3b9c869f10": {
     "text": "Je pense que nous allons avoir des visiteurs un peu spéciaux..."
   },
   "f5b1412cbef3c66b986ee038658a5e46": {
-    "text": "Nous avons de la compagnie... Et ce n'est pas un Pod temporel classique."
+    "text": "Nous avons de la compagnie... Et ce n'est pas un Module temporel classique."
   },
   "d88128294ec8457de6d7d7493f0f75bf": {
     "text": "Nous avons de la compagnie... Et ce n'est pas d'ici."
   },
   "f4ac532e6d9c2f9c871046cbe72d5c71": {
-    "text": "Je n'ai jamais vu un Pod temporel comme celui-ci auparavant... Pas sûr que ça soit un Pod temporel d'ailleurs."
+    "text": "Je n'ai jamais vu un Module temporel comme celui-ci auparavant... Pas sûr que ça soit un Module temporel d'ailleurs."
   },
   "5d20dc8a87eb877afe15112023477fa2": {
     "text": "Je pense que je sais maintenant ce que la balise a appelé."
@@ -11469,13 +11467,13 @@
     "text": "Un objet inconnu descend dans l'atmosphère."
   },
   "b02ccb92ca4d0063935d89195976a7f3": {
-    "text": "Regardez ce Pod ! Je pense qu'il vient en réponse au signal !"
+    "text": "Regardez ce Module ! Je pense qu'il vient en réponse au signal !"
   },
   "42c67feff61b44b29c01eb9c040bdb04": {
     "text": "J'ai quelque chose d'inhabituel venant des mes capteurs..."
   },
   "370cfd0db8af039c72ac60258146fa6e": {
-    "text": "Nous avons de la compagnie... Mais, euh, est-ce que je suis le seul à trouver ce Pod étrange ?"
+    "text": "Nous avons de la compagnie... Mais, euh, est-ce que je suis le seul à trouver ce Module étrange ?"
   },
   "52ea9437c434d9d222d1af516e20a624": {
     "text": "Capsule de type inconnu, vous avez pénétré dans une zone temporelle de reconstruction interdite."
@@ -13958,10 +13956,10 @@
     "text": "Mise à jour : Nouveau chemin disponible."
   },
   "05fb1336bfbf1e3dca6f27d70c181d3a": {
-    "text": "Bon terra-formage à l'ancienne..."
+    "text": "Bon terraformage à l'ancienne..."
   },
   "914b8eb18c0586b0a2e1292509a626a9": {
-    "text": "Rien de tel qu'un petit terra-formage à l'ancienne..."
+    "text": "Rien de tel qu'un petit terraformage à l'ancienne..."
   },
   "3745eb44e0eaf87412cc169a21792324": {
     "text": "Chez R.S.T., nous avons l'habitude de casser des montages avant le petit déj."
@@ -14046,7 +14044,7 @@
     "text": "S'il vous plaît, ne dites pas dans mon C.V. que je peux désintégrer des montagnes."
   },
   "9d7d5c268ad54f2775d00e0b84baf268": {
-    "text": "Alors comme ça, on fait du terra-formage ? R.S.T. embauche, vous savez."
+    "text": "Alors comme ça, on fait du terraformage ? R.S.T. embauche, vous savez."
   },
   "afb16df2b6c173eacdf4302e14371319": {
     "text": "Chez R.S.T., nous avons l'habitude te casser des montagnes comme celles-ci avant le petit déj."
@@ -14269,7 +14267,7 @@
     "text": "Commençons à nouveau nos efforts Vekticides."
   },
   "e05e32a949e561a926c8f406378c0d77": {
-    "text": "Si quelqu'un était dans ce Pod, j'espère qu'il aura survécu à l'atterrissage..."
+    "text": "Si quelqu'un était dans ce Module, j'espère qu'il aura survécu à l'atterrissage..."
   },
   "b5cea5d7c39f4529ddc7be1f8c3b221c": {
     "text": "Je... Je ne pourrais pas faire plus."
@@ -15416,7 +15414,7 @@
     "review": true
   },
   "568f1cbd5bbdb2c81d820dcf1f12ebd8": {
-    "text": "Je suppose que c'est ce que vous appelez un terra-formage style Archive."
+    "text": "Je suppose que c'est ce que vous appelez un terraformage style Archive."
   },
   "b4d54ab65d7091bfc2b4d1881eae99cb": {
     "text": "Dommage à propos du barrage, mais c'était nécessaire."
@@ -15467,7 +15465,7 @@
     "text": "Pas le meilleur travail d'irrigation que j'aurais vu mais bon..."
   },
   "e6e17ca1a69ddf62d24bc982401d343f": {
-    "text": "Vous devriez être fier - Le terra-formage R.S.T. créé rarement des rivières."
+    "text": "Vous devriez être fier - Le terraformage R.S.T. créé rarement des rivières."
   },
   "83c22af3f2c313b2d2879b1c625615a6": {
     "text": "Preum's pour le nom de la rivière... La rivière de #self_second, ça sonne bien non ?",
@@ -15854,82 +15852,82 @@
     "text": "Bon, ces mines de l'Ancienne Terre ont encore du peps !"
   },
   "b35962eb28b78a59a667d5d5e2f8f7b7": {
-    "text": "Si le terra-formeur est détruit"
+    "text": "Si le terraformeur est détruit"
   },
   "23327e82d302693bf00f4224d445df2a": {
-    "text": "Mise à jour : Terra-formeur détruit"
+    "text": "Mise à jour : Terraformeur détruit"
   },
   "a3050b836fe21f4e775d7ebc8b4a0aaa": {
-    "text": "Terra-formeur détruit. Je déteste être celui qui va l'annoncer au PDG Kern."
+    "text": "Terraformeur détruit. Je déteste être celui qui va l'annoncer à la PDG Kern."
   },
   "ba820bb1b0c377acf3e2a7a1fb75a3e7": {
-    "text": "Terra-formeur détruit ! Dommage pour la technologie R.S.T."
+    "text": "Terraformeur détruit ! Dommage pour la technologie R.S.T."
   },
   "e13b84528bc19c661d9d429784e98a99": {
-    "text": "Terra-formeur détruit. Le PDG Kern doit être fou maintenant."
+    "text": "Terraformeur détruit. La PDG Kern doit être fou maintenant."
   },
   "2418c0300ec0f15692779adc6fbd011a": {
     "text": "R.S.T. va devoir remplir des rapports pendant des mois."
   },
   "349894b111fe9a672b5b6fcb3082b046": {
-    "text": "Terra-formeur détruit, Commandant."
+    "text": "Terraformeur détruit, Commandant."
   },
   "bf1caf4da14d47e5fb6e35bbc661729f": {
-    "text": "Terra-formeur détruit. Une perte terrible."
+    "text": "Terraformeur détruit. Une perte terrible."
   },
   "be72a0a36e092715e3be236c1702db8d": {
-    "text": "P... ! Nous avions besoin de ce terra-formeur !"
+    "text": "P... ! Nous avions besoin de ce terraformeur !"
   },
   "72cd254a0246aa0be90a8c1cc0473295": {
-    "text": "Non ! Nous avons perdu le terra-formeur !"
+    "text": "Non ! Nous avons perdu le terraformeur !"
   },
   "2508216cfbb963677a96e0945f2b597c": {
-    "text": "Le terra-formeur est détruit."
+    "text": "Le terraformeur est détruit."
   },
   "dd1354ff23c95783be0ad14f5e853f60": {
-    "text": "Le terra-formeur n'a plus besoin de protection maintenant."
+    "text": "Le terraformeur n'a plus besoin de protection maintenant."
   },
   "9983425a4768776322d311c05bce06bb": {
-    "text": "Le terra-formeur a été recyclé. Puisse-t-il ne jamais être reconstruit."
+    "text": "Le terraformeur a été recyclé. Puisse-t-il ne jamais être reconstruit."
   },
   "70ed20bb136800077f751d58effadda8": {
     "text": "Dur, les efforts non planifiés de terraformation ont été mis en attente. Indéfiniment."
   },
   "67eb6cd496700937ec07076aed2d5f27": {
-    "text": "Oups. Nous avions besoin de ce terra-formeur, n'est-ce pas ?"
+    "text": "Oups. Nous avions besoin de ce terraformeur, n'est-ce pas ?"
   },
   "b47b0f8672f5ab07dd2336b3a9365949": {
-    "text": "Est-ce que ce terra-formeur était-il censé exploser ?"
+    "text": "Est-ce que ce terraformeur était-il censé exploser ?"
   },
   "058589232104c741fe95176200206e8c": {
-    "text": "C'est mieux que de perdre le Réseau d'Energie mais Kern va péter un fusible à propos du terra-formeur"
+    "text": "C'est mieux que de perdre le Réseau d'Energie mais Kern va péter un fusible à propos du terraformeur"
   },
   "0c5e109d4b33142cc8a8fbaa253766a7": {
-    "text": "Le PDG Kern va être complètement fou à propos de ce terra-formeur."
+    "text": "La PDG Kern va être complètement folle à propos de ce terraformeur."
   },
   "5bf0e0182a4853e4be98e32d3acfb903": {
     "text": "Nous ne pouvons rien faire à propos de ce terraformateur. R.S.T. peut m'envoyer la facture."
   },
   "394051ed6caa5353a154aad0b2d7f645": {
-    "text": "Mère... Le PDG Kern de cette ligne temporelle... ne va pas être content."
+    "text": "Mère... La PDG Kern de cette ligne temporelle... ne va pas être contente."
   },
   "ebd72f528fe93f7475f4eac254619e05": {
-    "text": "Le terra-formeur a cessé son activité."
+    "text": "Le terraformeur a cessé son activité."
   },
   "7575b7aff39b70f65e4dcc09fffab06c": {
-    "text": "Nous-nous avons perdu le t-t-terra-formeur !"
+    "text": "Nous-nous avons perdu le t-t-terraformeur !"
   },
   "a8689704cd71d8c05ff204d00793dc7a": {
-    "text": "Le terra-formeur représentait un investissement substantiel des ressources de R.S.T."
+    "text": "Le terraformeur représentait un investissement substantiel des ressources de R.S.T."
   },
   "8270701736953bd38ba7e86a85b3a695": {
-    "text": "Je crois que les Accords d'entreprise nous protègent de toute responsabilité résultant de la perte du terra-formeur."
+    "text": "Je crois que les Accords d'entreprise nous protègent de toute responsabilité résultant de la perte du terraformeur."
   },
   "94dcfe6d672c3ae7d700dd67473f4d4a": {
-    "text": "De toute façon, le terra-formeur R.S.T. faisait d'énormes dommages à cette île."
+    "text": "De toute façon, le terraformeur R.S.T. faisait d'énormes dommages à cette île."
   },
   "682a09f6df6b02aff1cc29d71ba5c970": {
-    "text": "Présentez-vous à mon bureau à propos de ce terra-formeur dès votre retour."
+    "text": "Présentez-vous à mon bureau à propos de ce terraformeur dès votre retour."
   },
   "23f8182196370ee1deff0cd7b1f3f2b6": {
     "text": "Pas étonnant que cette île bouge autant."
@@ -15938,13 +15936,13 @@
     "text": "Ok, c'est plus effrayant que les Mechs."
   },
   "2561d2e40d763a0303b1d0769383bf96": {
-    "text": "Faites attention au terra-formeur, il ne distingue pas les amis des ennemis."
+    "text": "Faites attention au terraformeur, il ne distingue pas les amis des ennemis."
   },
   "54fde359d5ea69750037481d4f86e164": {
-    "text": "Gardez une distance de sécurité du terra-formeur."
+    "text": "Gardez une distance de sécurité du terraformeur."
   },
   "3ea51e77a933b7b107c422b0e6364855": {
-    "text": "Evacuez la zone, laisser le terra-formeur faire son travail !"
+    "text": "Evacuez la zone, laisser le terraformeur faire son travail !"
   },
   "676987bb950d5aceffbf13411aaf6647": {
     "text": "Wouah, la technologie R.S.T. est vraiment... efficace."
@@ -15965,38 +15963,38 @@
     "text": "Le terrain a été cruellement taillé."
   },
   "7166a6cde4c25a759973fc26b645aace": {
-    "text": "Wouah. Ce terra-formeur me donne des frissons."
+    "text": "Wouah. Ce terraformeur me donne des frissons."
   },
   "dd4d7bd29c2158ddd042d96107ca2938": {
-    "text": "Restez loin de ce terra-formeur, #squad - nous avons notre propre travail à faire."
+    "text": "Restez loin de ce terraformeur, #squad - nous avons notre propre travail à faire."
   },
   "180877d33d04337108e20a881fff9e73": {
-    "text": "Éloignez les Veks de ce terra-formeur, #squad, laisse le faire son travail."
+    "text": "Éloignez les Veks de ce terraformeur, #squad, laisse le faire son travail."
   },
   "d6697bf9f88b21428d936d721eb50606": {
     "text": "J'ai besoin de CA comme arme.",
     "review": true
   },
   "477d1194a32117c67b6f480a34640899": {
-    "text": "Terra-formage avec succès."
+    "text": "terraformage avec succès."
   },
   "ddcf5ec744222059d94e6cdf52454599": {
-    "text": "Le terra-formeur fait son travail, Commandant."
+    "text": "Le terraformeur fait son travail, Commandant."
   },
   "17f91db2efff30ebc0d7d53c22f64aa2": {
     "text": "La zone de travail a été modifiée. Le terrain R.S.T. a été contraint avec succès."
   },
   "95f3d2b74c9a40f207f8a28c1fef78fc": {
-    "text": "Le terra-formeur... a... j-j-juste... dissous le terrain."
+    "text": "Le terraformeur... a... j-j-juste... dissous le terrain."
   },
   "ca788bd76d7893dda41ba395a5d5b227": {
     "text": "Le rezonage effectué par le terra-former R.S.T. de la région est terminé."
   },
   "0c7271fd71916ba0b9287645c95c577d": {
-    "text": "Ce terra-formeur R.S.T. consomme une quantité phénoménale d'énergie."
+    "text": "Ce terraformeur R.S.T. consomme une quantité phénoménale d'énergie."
   },
   "d1c85836c12d19543e4a16e8ffdcd5cb": {
-    "text": "Restez à l'écart du terra-formeur et laissez le faire son travail."
+    "text": "Restez à l'écart du terraformeur et laissez le faire son travail."
   },
   "a2e92506784daf6f4365b3ef2d6c0abe": {
     "text": "S'active lorsque le sol s'effondre pendant l'une des missions RST avec chute de terrain"
@@ -16121,7 +16119,7 @@
     "text": "La décharge électrique a vaporisé le Vek !"
   },
   "a71485eff2c4bb203f887f4aef08edc7": {
-    "text": "On dirait que le PDG kern met à profit les armes naturelles venant du ciel..."
+    "text": "On dirait que la PDG Kern met à profit les armes naturelles venant du ciel..."
   },
   "2273838d7c81565cd873be01e48a6a2f": {
     "text": "La tempête a recyclé le Vek."
@@ -16185,10 +16183,10 @@
     "text": "Ferme solaire détruite !"
   },
   "818cbe831f6ae41a390429e55849d893": {
-    "text": "Kern va être fou quand il saura pour la ferme."
+    "text": "Kern va être folle quand elle saura pour la ferme."
   },
   "5cf139c0ea68444c9946396574918c80": {
-    "text": "Kern ne va pas aimer ça quand il lira le rapport sur la ferme, Commandant."
+    "text": "Kern ne va pas aimer ça quand elle lira le rapport sur la ferme, Commandant."
   },
   "677cc1157af842a56ff026956ea399d9": {
     "text": "Ferme détruite - il n'y a rien à récupérer malheureusement."
@@ -16198,7 +16196,7 @@
     "review": true
   },
   "d6af43d64b4a51791567f9e2f1f9cbee": {
-    "text": "Kern ne sera pas heureux quand il saura pour la ferme solaire..."
+    "text": "Kern ne sera pas heureuse quand elle saura pour la ferme solaire..."
   },
   "b414d74384817d7bc5fed5136be5da92": {
     "text": "Ferme solaire en pièces !"
@@ -16310,7 +16308,7 @@
     "review": true
   },
   "c9e5084733e570eb784067547fb8f6da": {
-    "text": "N'oubliez pas - nous sommes ici pour raser les montagnes, ordres du PDG Kern."
+    "text": "N'oubliez pas - nous sommes ici pour raser les montagnes, ordres de la PDG Kern."
   },
   "0f4b10a7dcd918d3afe3c86b0ea17f8a": {
     "text": "Encore quelques montagnes à casser, #squad."
@@ -17537,8 +17535,8 @@
   },
   "36fe8cf03532f27f5fbcb0cbffe38728": {
     "text": "Défendre les bombes"
-  },
-  "b1f9e0c52fa626cd7066f5f650c28085": {
+  }
+    "b1f9e0c52fa626cd7066f5f650c28085": {
     "text": "5thHorseman\\n\nAlfie275\\n\nchewbacca77\\n\nDarthcaboose\\n\nDiscord\\n\nFynn\\n\nJoni\\n\nKieve\\n\nLem\\n\nNick Patrick\\n\nRick Edmonds\\n\nSleeper Service\\n\nVeritas\\n"
   },
   "0557fa923dcee4d0f86b1409f5c2167f": {
