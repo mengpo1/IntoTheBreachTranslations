@@ -45,7 +45,7 @@
     "text": "Vous ne pouvez pas toucher l'ennemi depuis cette position. Utiliser 'Annuler Déplacement' pour repositionner le Mech !"
   },
   "ec168cccb683e206e453fb2e080a16a3": {
-    "text": "Annuler Déplacement"
+    "text": "Annuler Déplacmnt"
   },
   "521ee863d8ed9299432c5c2442aae7a5": {
     "text": "Frapper l'ennemi !"
@@ -929,7 +929,7 @@
     "text": "Spécial"
   },
   "7bdf5640dedefee9a0ea40d1da7f8f8f": {
-    "text": "Requiert $1 de point de Puissance"
+    "text": "Requiert $1 de Puiss."
   },
   "abfd7f3f87105561b6a700a6ee332e67": {
     "text": "Alimenté"
@@ -953,10 +953,10 @@
     "text": "Expérience"
   },
   "16d2b386b2034b9488996466aaae0b57": {
-    "text": "Histoire"
+    "text": "Historique"
   },
   "0edaf80806620c1d939c7afa5b683a57": {
-    "text": "Lignes Temporelles Précédentes : $1"
+    "text": "Lignes Temp. Précédentes : $1"
   },
   "c23f0f69aacb6872817d957490c74aa2": {
     "text": "Batailles Finales : $1"
@@ -1560,7 +1560,7 @@
     "text": "Gagnez des pièces en accomplissant des succès ! Utilisez des pièces pour débloquer de nouvelles Escouades !"
   },
   "9310c71919a7d206c4570c36e665c6cf": {
-    "text": "Jouez plus de débloquez tous les pilotes !"
+    "text": "Jouez plus pour débloquer tous les pilotes !"
   },
   "02bd36dd60479a5c9e9d949f08e66fc6": {
     "text": "Sélection Pilote"
@@ -4786,13 +4786,13 @@
     "text": "Barrage de l'Ancienne Terre"
   },
   "5bba7eb907a89f4c84409ffc6dd64ef7": {
-    "text": "Défendre les Lancements de Satellites"
+    "text": "Défendre les aires de lancement des satellites"
   },
   "1348b010d1b4a0bda4a5dc515232e228": {
-    "text": "Défendre le 1er lancement du satellite"
+    "text": "Défendre le premier satellite"
   },
   "4b0414970069383866c53b10415981c5": {
-    "text": "Défendre le 2ième lancement du satellite"
+    "text": "Défendre le second satellite"
   },
   "87a82458cb3750aa871ffff0e9287b32": {
     "text": "Fusée"
@@ -7687,7 +7687,7 @@
     "text": "C'est dommage de voir l'un de nos chars détruit, mais au moins il a servi dans une bataille !"
   },
   "b864bf6d7e7dbf9272d1fc4cced219de": {
-    "text": "Ces satellites étaient la pièce maîtresse de notre exposition \"La Course pour découvrir l'espace\" , mais ils s'avèreront plus utiles pour la télémétrie de nos défenses."
+    "text": "Ces satellites étaient la pièce maîtresse de notre exposition 'La Course pour découvrir l'espace' , mais ils s'avèreront plus utiles pour la télémétrie de nos défenses."
   },
   "2bd7bf89dd2aeb22fabdd4129a997683": {
     "text": "Ces satellites ont été récupérés de leur orbite il y a longtemps, mais ils devraient encore fonctionner suffisamment bien pour nous aider à détecter l'activité Vek à travers l'île."
