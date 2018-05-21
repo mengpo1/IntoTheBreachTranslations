@@ -9721,7 +9721,7 @@
     "text": "Les diagnostics internes sont au vert."
   },
   "bb3a7370eddd8b1007bb761090eb1274": {
-    "text": "Bien sûr, content qu'il n'ait pas pété une durite.",
+    "text": "Bien sûr, content que le Mech puisse supporter cela sans tomber en panne.",
     "review": true
   },
   "b621eb44542b63988c4cdda8bb7961ff": {
@@ -17531,13 +17531,13 @@
     "text": "Détruire %%0 Goos"
   },
   "84ce909816e88c3d6857df53c488a6ea": {
-    "text": "Défendre les tanks d'Archive"
+    "text": "Défendre les chars de la corporation Archive"
   },
   "36fe8cf03532f27f5fbcb0cbffe38728": {
     "text": "Défendre les bombes"
   },
-    "b1f9e0c52fa626cd7066f5f650c28085": {
-    "text": "5thHorseman\\n\nAlfie275\\n\nchewbacca77\\n\nDarthcaboose\\n\nDiscord\\n\nFynn\\n\nJoni\\n\nKieve\\n\nLem\\n\nNick Patrick\\n\nRick Edmonds\\n\nSleeper Service\\n\nVeritas\\n"
+  "b1f9e0c52fa626cd7066f5f650c28085": {
+    "text": "5thHorseman\n\nAlfie275\n\nchewbacca77\n\nDarthcaboose\n\nDiscord\n\nFynn\n\nJoni\n\nKieve\n\nLem\n\nNick Patrick\n\nRick Edmonds\n\nSleeper Service\n\nVeritas\n"
   },
   "0557fa923dcee4d0f86b1409f5c2167f": {
     "text": "Retour"
